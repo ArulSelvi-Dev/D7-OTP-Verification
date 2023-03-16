@@ -2,7 +2,7 @@
 ### Description:
 
 
-This module offers two-factor authentication (2FA) for applications that need One Time Password (OTP) Verification based on SMS. 
+This module offers two-factor authentication (2FA) for applications that need One Time Password (OTP) Verification based on SMS. The entire verification process is automated including unique One Time Password (OTP) generation and Instant Verification.
 
 
 ### Features: 
